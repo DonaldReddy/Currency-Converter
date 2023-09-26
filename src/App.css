@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 .container {
-  width: 400px;
-  height: 350px;
+  width: 500px;
+  height: 450px;
   display: flex;
   flex-direction: column;
   align-items: center;
